@@ -8,7 +8,9 @@
 
 
             mat
-            <star name="PHOENIX A" temp="100" x="123" y="123" numPlanets="0" numGasGiants="0" blackHole="true">              
+            <star name="PHOENIX A" temp="100" x="123" y="123" numPlanets="0" numGasGiants="0" blackHole="true">
+                <star name="Centaria 12" temp="200" separation="50.0" />
+            
                 <planet name="Astroid Cluster">
                     <genType>2</genType>
                   <orbitalDistance>1000</orbitalDistance>
@@ -17,11 +19,19 @@
                     <planet name="Z15" customIcon="WaterWorld">
                     <hasRings>true</hasRings>
                     <orbitalDistance>150</orbitalDistance>
+                    <fogColor>#000000</fogColor>
+                    <atmosphereDensity>100</atmosphereDensity>
+                    <gravitationalMultiplier>105</gravitationalMultiplier>
+                    <oceanBlock>Minecraft:water</oceanBlock>
+                    <seaLevel>64</seaLevel>
+                    <artifact>hbm:sat_gerald</artifact>
+                    <artifact>hbm:dfc_core</artifact>
                     ...
                     <planet name="X15">
                         ...
                     </planet>
                 </planet>
+
                      <planet name="Z12">
                      <orbitalDistance>12</orbitalDistance>
                     ...
@@ -30,6 +40,7 @@
                 <planet name="Z13">
                 <orbitalDistance>400</orbitalDistance>
                 <GasGiant>true</GasGiant>
+                <hasRings>true</hasRings>
                 ...
                 <planet name="X13">
                 ...
@@ -79,7 +90,10 @@
                     </planet>
             </star>
 
-            <star name="JOHN" temp="400" x="-25" y="25" numPlanets="1" numGasGiants="1" blackHole="false">
+            <star name="JOHN" temp="100" x="-25" y="25" numPlanets="0" numGasGiants="0" blackHole="false">
+            <planet name="hmmmmm">
+            <orbitalDistance>15</orbitalDistance>
 
+            </planet>
             </star>
         </galaxy>
