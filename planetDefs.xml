@@ -1,0 +1,84 @@
+        <galaxy>
+            start
+             <star name="SOL" temp="100" x="0" y="0" numPlanets="3" numGasGiants="1" blackHole="False">              
+
+            </star>
+
+
+
+
+            mat
+            <star name="PHOENIX A" temp="100" x="123" y="123" numPlanets="0" numGasGiants="0" blackHole="true">              
+                <planet name="Astroid Cluster">
+                    <genType>2</genType>
+                  <orbitalDistance>1000</orbitalDistance>
+                    ...
+                </planet>
+                    <planet name="Z15" customIcon="WaterWorld">
+                    <hasRings>true</hasRings>
+                    <orbitalDistance>150</orbitalDistance>
+                    ...
+                    <planet name="X15">
+                        ...
+                    </planet>
+                </planet>
+                     <planet name="Z12">
+                     <orbitalDistance>12</orbitalDistance>
+                    ...
+                </planet>
+
+                <planet name="Z13">
+                <orbitalDistance>400</orbitalDistance>
+                <GasGiant>true</GasGiant>
+                ...
+                <planet name="X13">
+                ...
+                </planet>
+                </planet>
+            </star>
+
+            eli
+            <star name="g" temp="100" x="25" y="-25" numPlanets="0" numGasGiants="0" blackHole="false">
+                    <planet name="N1">
+                    <GasGiant>true</GasGiant>
+                    <orbitalDistance>200</orbitalDistance>
+                    ...
+                    <planet name="M1">                
+                    ...
+                    </planet>
+                    </planet>
+
+                    <planet name="N2">
+                    <orbitalDistance>150</orbitalDistance>
+                    ...
+                    </planet>
+                    
+
+
+            </star>
+
+            <star name="Noodle" temp="100" x="25" y="25" numPlanets="0" numGasGiants="0" blackHole="false">
+                    <planet name="leukemia">
+                    <GasGiant>true</GasGiant>
+                    <orbitalDistance>200</orbitalDistance>
+                    ...
+                    <planet name="Sadistic">                
+                    ...
+                    </planet>
+                    </planet>
+
+                    <planet name="erectile dysfunction">
+                    <orbitalDistance>150</orbitalDistance>
+                    ...
+                    </planet>
+
+                     <planet name="Amish Butter Churner">
+                    <orbitalDistance>150</orbitalDistance>
+                    ...
+                    </planet>
+            </star>
+
+            <star name="JOHN" temp="400" x="-25" y="25" numPlanets="1" numGasGiants="1" blackHole="false">
+
+            </star>
+        </galaxy>
