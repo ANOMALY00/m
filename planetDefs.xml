@@ -60,9 +60,10 @@
             <star name="Noodle" temp="100" x="25" y="25" numPlanets="0" numGasGiants="0" blackHole="false">
                     <planet name="leukemia">
                     <GasGiant>true</GasGiant>
-                    <orbitalDistance>200</orbitalDistance>
+                    <orbitalDistance>250</orbitalDistance>
                     ...
-                    <planet name="Sadistic">                
+                    <planet name="Sadistic">   
+                    <orbitalDistance>50</orbitalDistance>             
                     ...
                     </planet>
                     </planet>
@@ -73,7 +74,7 @@
                     </planet>
 
                      <planet name="Amish Butter Churner">
-                    <orbitalDistance>150</orbitalDistance>
+                    <orbitalDistance>200</orbitalDistance>
                     ...
                     </planet>
             </star>
