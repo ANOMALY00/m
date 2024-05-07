@@ -1,0 +1,55 @@
+            mat
+            <star name="PHOENIX A" temp="100" x="123" y="123" numPlanets="0" numGasGiants="0" blackHole="true">
+                <star name="Centaria 12" temp="200" separation="50.0">
+            
+                <planet name="Astroid Cluster">
+                    <genType>2</genType>
+                  <orbitalDistance>1000</orbitalDistance>
+                    ...
+                </planet>
+ 
+                <planet name="Z11" customIcon="lava">
+                <seaLevel>128</seaLevel>
+                <oceanBlock>minecraft.lava</oceanBlock>   
+                <orbitalDistance>50</orbitalDistance>
+                <atmosphereDensity>0</atmosphereDensity>
+                <hasRings>true</hasRings>
+                </planet>
+
+                    <planet name="Z15">
+                    <hasRings>true</hasRings>
+                    <orbitalDistance>150</orbitalDistance>
+                    <fogColor>#000000</fogColor>
+                    <atmosphereDensity>100</atmosphereDensity>
+                    <gravitationalMultiplier>105</gravitationalMultiplier>
+                    <oceanBlock>Minecraft:water</oceanBlock>
+                    <seaLevel>64</seaLevel>
+                    ...
+                    <planet name="X15">
+                        ...
+                    </planet>
+                </planet>
+
+                     <planet name="Z12">
+                     <orbitalDistance>12</orbitalDistance>
+                    ...
+                </planet>
+
+                <planet name="Z13">
+                <orbitalDistance>400</orbitalDistance>
+                <GasGiant>true</GasGiant>
+                <hasRings>true</hasRings>
+                <gas>nitrogen</gas>
+                <gas>oxygen</gas>
+                ...
+                <planet name="X13">
+                ...
+                </planet>
+                </planet>
+
+                <planet name="Z14">
+                <orbitalDistance>450</orbitalDistance>
+                <GasGiant>true</GasGiant>
+                <gas>nitrogen</gas>
+                </planet>
+            </star>

@@ -1,0 +1,86 @@
+        <galaxy>
+            <star name="Sol" temp="100" x="0" y="0" numPlanets="4" numGasGiants="1">
+                ...
+            </star>
+
+            <star name="PHOENIX A" temp="100" x="123" y="123" numPlanets="0" numGasGiants="0" blackHole="True">
+
+                <planet name="Z-15">
+                 <hasRings>true</hasRings>
+                 <orbitalDistance>150</orbitalDistance>
+                 <fogColor>#000000</fogColor>
+                 <atmosphereDensity>100</atmosphereDensity>
+                 <gravitationalMultiplier>105</gravitationalMultiplier>
+
+                 <planet name="X-14">
+                 <atmosphereDensity>100</atmosphereDensity>
+                 <gravitationalMultiplier>103</gravitationalMultiplier>
+                    ...
+                 </planet>
+                 ...
+                </planet>
+
+                <planet name="Z-14">
+                <orbitalDistance>10</orbitalDistance>
+
+                ...
+                </planet>
+
+                <planet name="Z-13">
+                <orbitalDistance>20</orbitalDistance>
+
+                </planet>
+
+                <planet name="Z-12">
+                <orbitalDistance>125</orbitalDistance>
+
+                </planet>
+
+                <planet name="Z-11">
+                <orbitalDistance>100</orbitalDistance>
+
+                </planet>
+          
+          
+            </star>
+
+              <star name="er" temp="100" x="25" y="-25" numPlanets="0" numGasGiants="0" blackHole="true">
+                    <planet name="N1">
+                    <GasGiant>true</GasGiant>
+                    <orbitalDistance>200</orbitalDistance>
+                    ...
+                    <planet name="big black men shaking their ass">
+                    <orbitalDistance>250</orbitalDistance>
+                    <hasRings>true</hasRings>
+                    ...
+                   <planet name="Micro Dick" DIMID="0" dimMapping="" customIcon="WaterWorld">
+                    <orbitalDistance>350</orbitalDistance>
+                    <hasRings>true</hasRings>
+                     <spawnable weight="1" groupMin="1" groupMax="5">minecraft:villager</spawnable>
+                    <spawnable weight="1" groupMin="1" groupMax="5">minecraft:sheep</spawnable>
+                     ...
+                    </planet>
+
+                    <planet name="N2">
+                    <orbitalDistance>150</orbitalDistance>
+                    ...
+                    </planet>
+
+
+
+            </star>
+
+
+            <star name="Centaria" temp="100" x="0" y="0" numPlanets="1" numGasGiants="0" blackHole="false">
+                <star name="Centaria" temp="200" separation="35.0" />
+                <planet name="Centaria A">
+                    ...
+                </planet>
+            </star>
+
+
+
+
+
+
+        </galaxy>                    

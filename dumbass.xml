@@ -1,0 +1,9 @@
+        <galaxy>
+            <star name="Sol" temp="100" x="0" y="0" numPlanets="1" numGasGiants="0" blackHole="false">
+                <star name="Sol-2" temp="200" separation="10.0" />
+                <star name="tester" temp="200" separation="10.0" />
+                <planet name="Jole">
+                    ...
+                </planet>
+            </star>
+        </galaxy>
